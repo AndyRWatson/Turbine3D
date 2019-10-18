@@ -4,7 +4,7 @@
 
 Parts
 Raspberry pi zero (minimum spec)
-5v stepper motor
+6v dc model  motor
 L298N stepper controller
 Oled i2c lcd display (optional)
 
