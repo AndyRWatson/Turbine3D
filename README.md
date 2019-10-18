@@ -9,6 +9,7 @@ Parts
 
 * Oled i2c lcd display (optional)
 
+![pi GPIO wiring](Wiring.jpg)
 
 
 # Turbine3D
