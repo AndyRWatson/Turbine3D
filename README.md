@@ -9,6 +9,7 @@ Parts
 
 * Oled i2c lcd display (optional)
 
+![pi GPIO wiring diagram](pizerow_L298n_DC_Motor_bb.jpg)
 ![pi GPIO wiring](Wiring.jpg)
 
 
