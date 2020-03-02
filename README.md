@@ -19,10 +19,13 @@ Parts
   <summary>Arduino D1 Mini</summary>
   
   ![Arduino D1 Mini GPIO wiring diagram](D1_L298_DcMotor_Oled_bb.jpg)
-  ![Arduino nodeMCU GPIO wiring diagram](NodeMCU_L298n_DC_Motor_bb.jpg)
 </details>  
 
+<details>
+  <summary>Arduino nodeMCU</summary>
 
+  ![Arduino nodeMCU GPIO wiring diagram](NodeMCU_L298n_DC_Motor_bb.jpg)
+</details>
 # Turbine3D
 
 remixed based on an original model by [mespace2](https://www.thingiverse.com/me2space/about) 
